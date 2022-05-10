@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **vanilla HTML, CSS, and JavaScript.**
 
-- 📫 How to reach me **astraughn5@gmail.com**
+- 📫 Reach out to me via email at **astraughn5@gmail.com**
 
 - 📄 Know about my experiences with my [resume](https://docs.google.com/document/d/12VMPxW-cKmXzoCfhZVhgARlOl0Vru9ko/edit?usp=sharing&ouid=102833839786702006590&rtpof=true&sd=true).
 
