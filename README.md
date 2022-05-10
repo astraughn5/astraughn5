@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **astraughn5@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/12VMPxW-cKmXzoCfhZVhgARlOl0Vru9ko/edit?usp=sharing&ouid=102833839786702006590&rtpof=true&sd=true](https://docs.google.com/document/d/12VMPxW-cKmXzoCfhZVhgARlOl0Vru9ko/edit?usp=sharing&ouid=102833839786702006590&rtpof=true&sd=true)
+- 📄 Know about my experiences with my (resume)[https://docs.google.com/document/d/12VMPxW-cKmXzoCfhZVhgARlOl0Vru9ko/edit?usp=sharing&ouid=102833839786702006590&rtpof=true&sd=true](https://docs.google.com/document/d/12VMPxW-cKmXzoCfhZVhgARlOl0Vru9ko/edit?usp=sharing&ouid=102833839786702006590&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
