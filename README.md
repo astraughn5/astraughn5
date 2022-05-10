@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **OOP and Node.js**
 
-- 👨‍💻 All of my projects are available on my [portfolio](https://astraughn5.github.io/portfolio/).
+- 👨‍ 💻 All of my projects are available on my [portfolio](https://astraughn5.github.io/portfolio/).
 
 - 💬 Ask me about **vanilla HTML, CSS, and JavaScript.**
 
